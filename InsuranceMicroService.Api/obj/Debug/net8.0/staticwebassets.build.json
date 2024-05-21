@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "PjroWGAsiEzx4/z3b2HgGiHag7IS0QlxhWVOzJOwz8c=",
+  "Source": "InsuranceMicroService.Api",
+  "BasePath": "_content/InsuranceMicroService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\47467\\source\\repos\\MicroservicesInsurancePolicy\\PersonMicroService.Api\\PersonMicroService.Api.csproj",
+      "Version": 2,
+      "Source": "PersonMicroService.Api",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
