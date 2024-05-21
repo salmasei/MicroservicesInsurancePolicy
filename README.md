@@ -96,5 +96,3 @@ This service manages insurance policies linked to persons.
 ## Contact
 For any questions or issues, please contact seifvand@gmail.com
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
