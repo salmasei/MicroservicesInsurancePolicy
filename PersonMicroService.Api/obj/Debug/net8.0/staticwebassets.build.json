@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "X+vpXyeizruKCDlEi+w721FsO3Cy/8BieFfXQOS9CT4=",
+  "Source": "PersonMicroService.Api",
+  "BasePath": "_content/PersonMicroService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
