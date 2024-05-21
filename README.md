@@ -37,7 +37,7 @@ This service manages insurance policies linked to persons.
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/MicroservicesInsurancePolicy.git
+    git clone https://github.com/salmasei/MicroservicesInsurancePolicy.git
     cd MicroservicesInsurancePolicy
     ```
 
@@ -77,7 +77,7 @@ This service manages insurance policies linked to persons.
     Ensure both microservices are running.
 
 2. **Use Swagger UI:**
-    Open your browser and navigate to `https://localhost:7175/swagger/index.html` for the Insurance Microservice API documentation.
+    Open your browser and navigate to `https://localhost:xxxx/swagger/index.html` for the Insurance Microservice API documentation.
 
 3. **Creating a Person:**
     - Use the `POST /Person` endpoint to create a new person.
